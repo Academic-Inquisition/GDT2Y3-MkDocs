@@ -21,12 +21,32 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://academic-inquisition.github.io/topics/reverse_engineering/parchmentmc/</loc>
+         <loc>https://academic-inquisition.github.io/topics/reverse_engineering/reverse_engineering/</loc>
          <lastmod>2024-01-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://academic-inquisition.github.io/topics/reverse_engineering/reverse_engineering/</loc>
+         <loc>https://academic-inquisition.github.io/topics/reverse_engineering/java/nodes/</loc>
+         <lastmod>2024-01-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://academic-inquisition.github.io/topics/reverse_engineering/minecraft/parchmentmc/</loc>
+         <lastmod>2024-01-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://academic-inquisition.github.io/topics/reverse_engineering/minecraft/proguard/</loc>
+         <lastmod>2024-01-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://academic-inquisition.github.io/topics/reverse_engineering/minecraft/toolchain/bar/</loc>
+         <lastmod>2024-01-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://academic-inquisition.github.io/topics/reverse_engineering/minecraft/toolchain/foo/</loc>
          <lastmod>2024-01-23</lastmod>
          <changefreq>daily</changefreq>
     </url>

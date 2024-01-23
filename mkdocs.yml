@@ -1,0 +1,12 @@
+site_name: GDT2Y3
+site_url: https://academic-inquisition.github.io
+nav:
+  - Home: index.md
+  - About: about.md
+  - License: license.md
+  - Topics:
+      - Reverse_Engineering:
+          - Reverse Engineering: topics/reverse_engineering/reverse_engineering.md
+          - Examples: topics/reverse_engineering/examples.md
+          - ParchmentMC: topics/reverse_engineering/parchmentmc.md
+theme: readthedocs
